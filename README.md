@@ -2,7 +2,7 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+6 of the lessons will be from the [Ethics & Justice in Tech: Don't Be Evil](https://github.com/Make-School-Courses/Ethics-and-Justice-in-Tech) curriculum.
 
 ### Why you should know this (optional)
 
