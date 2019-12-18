@@ -2,57 +2,99 @@
 
 ## Course Description
 
-For term 4 of SPD, we've created a lot of new content that both juniors _and_ seniors (you!) haven't gotten a chance to review yet. This term, seniors will be taking some of their classes with the juniors, and will be taking classes on Ethics when the juniors have their lab class days.
-
-### Important Points
-
-1. **Your calendar is the source of truth for your class schedule** - juniors have lab classes that you don’t have. In place of the labs, you will be taking classes on Ethics.
-1. Do all assignments in both classes (ethics/SPD 1.4). **This is a requirement to pass the class**
-1. **SPD 2.4 slack channel will be used for messages on the ethics classes only**
-
-### Where do I go for class materials?
-
-- **SPD 1.4 Classes**: go to the [SPD 1.4 Repo](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture)
-- **Ethics Classes**: go to the ethics repo, [Ethics & Justice in Tech: Don't Be Evil](https://github.com/Make-School-Courses/Ethics-and-Justice-in-Tech).
-
-## Course Specifics
-
-Weeks to Completion:  7 <br>
-Total Seat Hours:  37.5 hours <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 112.5 hours <br>
-Units:  3 units <br>
-Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs
+This course offers structured support for the job search. The course starts with a two day workshop to build a well organized and focused application. After the workshop, the course covers choosing the right company, interviewing and negotiation skills. Make School staff work closely with students throughout the process as well as provide connections to startups and companies in our network including HR professionals, alumni, friends at YC companies and tech giants, and more.
 
 ## Prerequisites:  
 
 - [SPD 2.3](https://github.com/Make-School-Courses/SPD-2.3-Onboarding)
 
-## Project Policy
+## Learning Outcomes
 
-**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+By the end of the course, you will be able to ...
 
-- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+1. Improve your portfolio and job searching skills to optimize for your goals
+1. Practice interview scenarios, both informational and technical
+1. Utilize negotiation best practices
+1. Effectively communicate with a variety of personalities
 
-### Why are we doing this?
+## Schedule
 
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
+**Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
+**Class Times:** Monday, Tuesday, Wednesday at 6:00–7:45pm (20 class sessions)
 
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
+**Resource for Interview Practice:** [Technical Interview Question Bank](https://docs.google.com/document/d/1d08CZ4lk3lLPu0HwXvmYLLKBWCnwD4qhSvrrJ1e7TOE/edit)
 
-## Final Exam
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
+|  1 |  Tue, January 21               | Goals & Job Search Process |
+|  2 |  Wed, January 22               | Interview Practice |
+|  3 |  Mon, January 27               | Informational Interviews |
+|  4 |  Tue, January 28               | Interview Practice |
+|  5 |  Wed, January 29               | Interview Practice |
+|  6 |  Mon, February 3               | Portfolio Audit |
+|  7 |  Tue, February 4               | Interview Practice |
+|  8 |  Wed, February 5               | Interview Practice |
+|  9 |  Mon, February 10              | Negotiation Practice |
+| 10 |  Tue, February 11              | Interview Practice |
+| 11 |  Wed, February 12              | Interview Practice |
+| 12 |  Mon, February 17              | Managing Up |
+| 13 |  Tue, February 18              | Interview Practice |
+| 14 |  Wed, February 19              | Interview Practice |
+| 15 |  Mon, February 24              | Working with Different Personalities|  
+| 16 |  Tue, February 25              | Interview Practice|  
+| 17 |  Wed, February 26              | Interview Practice|
+| 18 |  Mon, March 2                  | Peer Interviews |
+| 19 |  Tue, March 3                  | Interview Practice |
+| 20 |  Wed, March 4                  | Interview Practice |
 
--  **Passing the exam is a requirement for passing the class.**
-- You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
-- There are no retakes of the exam.
-- If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
+## Assignment Schedule 
+
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| Term 3 Job goals                                          |  Tue, Jan 21  |  Mon, Jan 27 | Submit in Tracker  |
+| Linkedin up to date                                       |  Tue, Jan 21  |  Mon, Feb 3  | Submit in Tracker  |
+| [Job Search Tutorial] + making warm connections           |  Tue, Jan 21  |  Mon, Feb 10 | Submit in Tracker  |
+| Resume up to date                                         |  Tue, Jan 21  |  Mon, Feb 17  | Submit in Tracker  |
+| Conduct 3 informational interviews                        |  Mon, Jan 27  |  Mon, Feb 23 | Submit in Tracker  |
+| Complete Portfolio update initiative                      |  Mon, Feb 3   |  Mon, Mar 2  | Submit in Tracker  |
+| Negotiation evaluation w/ instructor                      |  Mon, Feb 17  |  Wed, Feb 19  | Done with instructor  |
+
+
+[Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
+
+## Class Assignments
+
+### Term 3 Job goals
+
+TBD
+
+### Linkedin up to date
+
+TBD
+
+### Job Search Tutorial + making warm connections
+
+- Complete the [Job Search Tutorial]
+
+TBD for the rest
+
+### Resume up to date
+
+TBD
+
+### Conduct 3 informational interviews
+
+TBD
+
+### Complete Portfolio update initiative
+
+TBD
+
+### Negotiation evaluation w/ instructor
+
+TBD
 
 ## Evaluation
 To pass this course you must meet the following requirements:
@@ -63,23 +105,13 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-## Attendance
-Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School. 
-
-
 ## Make School Course Policies
 
-[Academic Honesty](https://make.sc/academic-honesty)<br>
-[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)  
-[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)
-<br>
-[Title IX Policy](https://make.sc/title-ix-policy)<br>
-[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
