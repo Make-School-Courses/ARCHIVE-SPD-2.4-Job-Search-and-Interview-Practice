@@ -64,6 +64,8 @@ By the end of the course, you will be able to ...
 
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
 
+## [Course Tracker](https://docs.google.com/spreadsheets/d/1sEJrAPmcpJd0u9OZWEEiPP08kjKdebWKdvdMaOqHE68/edit#gid=136456159)
+
 ## Class Assignments
 
 ### Term 3 Job goals
