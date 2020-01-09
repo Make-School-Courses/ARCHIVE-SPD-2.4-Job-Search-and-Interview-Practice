@@ -91,18 +91,17 @@ Conduct 3 informational interviews
 
 ### Complete Portfolio update initiative
 
-TBD
+Complete the Portfolio Audit worksheet and reflection
 
-### Negotiation evaluation w/ instructor
+### Negotiation evaluation with instructor
 
-TBD
+Pass verbal negotiation practice and verbal assessment outlining content in the [Salary Negotiation Guide](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#)
 
 ## Evaluation
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials 
 - Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
