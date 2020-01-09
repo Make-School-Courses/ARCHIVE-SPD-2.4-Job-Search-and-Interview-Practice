@@ -87,7 +87,7 @@ Check 70% of boxes on the [Resume Checklist](https://docs.google.com/document/d/
 
 ### Conduct 3 informational interviews
 
-Conduct 3 informational interviews
+Conduct 3 informational interviews. [Fill out this template](https://docs.google.com/document/d/1yIf3iYjZ-p1iTdmT_GrRQMecIofhX4t-rjmKTYbNzOY/edit) and link it in the tracker to earn credit.
 
 ### Complete Portfolio Audit initiative
 
