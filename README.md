@@ -33,7 +33,7 @@ By the end of the course, you will be able to ...
 |  3 |  Mon, January 27               | Informational Interviews |
 |  4 |  Tue, January 28               | Interview Practice |
 |  5 |  Wed, January 29               | Interview Practice |
-|  6 |  Mon, February 3               | Portfolio Audit |
+|  6 |  Mon, February 3               | Working with Different Personalities |
 |  7 |  Tue, February 4               | Interview Practice |
 |  8 |  Wed, February 5               | Interview Practice |
 |  9 |  Mon, February 10              | Negotiation Practice |
@@ -42,7 +42,7 @@ By the end of the course, you will be able to ...
 | 12 |  Mon, February 17              | Managing Up |
 | 13 |  Tue, February 18              | Interview Practice |
 | 14 |  Wed, February 19              | Interview Practice |
-| 15 |  Mon, February 24              | Working with Different Personalities|  
+| 15 |  Mon, February 24              | Portfolio improvement work day|  
 | 16 |  Tue, February 25              | Interview Practice|  
 | 17 |  Wed, February 26              | Interview Practice|
 | 18 |  Mon, March 2                  | Peer Interviews |
