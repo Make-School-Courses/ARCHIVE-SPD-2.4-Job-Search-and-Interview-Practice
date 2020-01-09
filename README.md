@@ -68,25 +68,26 @@ By the end of the course, you will be able to ...
 
 ### Term 3 Job goals
 
-TBD
+Complete template in this spreadsheet, submit via tracker, and discuss your goals with your instructor.
 
 ### Linkedin up to date
 
-TBD
+Check 70% of boxes on the [LinkedIn Checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.gmdd0wc8bgfn)
 
 ### Job Search Tutorial + making warm connections
 
-- Complete the [Job Search Tutorial]
+[Job Search Navigation Tutorial](https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#)
+- IF ALREADY EMPLOYED: Do parts 2-4 of the tutorial. Have informational interviews with employees at the companies or engineers at similar companies using these template messages. Doing so will set you up for success and join with best practices in hand.
+- IF JOB SEEKING: Complete at least the first 4 phases of the tutorial
 
-TBD for the rest
 
 ### Resume up to date
 
-TBD
+Check 70% of boxes on the [Resume Checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63)
 
 ### Conduct 3 informational interviews
 
-TBD
+Conduct 3 informational interviews
 
 ### Complete Portfolio update initiative
 
