@@ -89,9 +89,9 @@ Check 70% of boxes on the [Resume Checklist](https://docs.google.com/document/d/
 
 Conduct 3 informational interviews
 
-### Complete Portfolio update initiative
+### Complete Portfolio Audit initiative
 
-Complete the Portfolio Audit worksheet and reflection
+Complete the [Portfolio Audit worksheet](https://docs.google.com/document/d/1xSzvTz8118R2uRnULE80IAy7qv54gQO-T4JUIqw1MUg/edit#) and reflection
 
 ### Negotiation evaluation with instructor
 
