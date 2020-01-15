@@ -39,10 +39,10 @@ By the end of the course, you will be able to ...
 |  9 |  Mon, February 10              | Working with Different Personalities |
 | 10 |  Tue, February 11              | Interview Practice |
 | 11 |  Wed, February 12              | Interview Practice |
-| 12 |  Mon, February 17              | Negotiation Practice |
+| 12 |  Mon, February 17              | Managing Up |
 | 13 |  Tue, February 18              | Interview Practice |
 | 14 |  Wed, February 19              | Interview Practice |
-| 15 |  Mon, February 24              | Managing Up|  
+| 15 |  Mon, February 24              | Negotiation Practice |  
 | 16 |  Tue, February 25              | Interview Practice|  
 | 17 |  Wed, February 26              | Interview Practice|
 | 18 |  Mon, March 2                  | Peer Interviews |
