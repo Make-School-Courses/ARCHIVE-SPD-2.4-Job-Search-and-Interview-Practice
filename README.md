@@ -97,7 +97,7 @@ Complete the [Portfolio Audit worksheet](https://docs.google.com/document/d/1xSz
 
 ### Negotiation evaluation with instructor
 
-Pass verbal negotiation practice and verbal assessment outlining content in the [Salary Negotiation Guide](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#)
+Pass verbal negotiation practice and verbal assessment outlining content in the [Salary Negotiation Guide](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#)by answering >70% of questions correctly.
 
 ## Evaluation
 To pass this course you must meet the following requirements:
