@@ -103,6 +103,10 @@ Pass verbal negotiation practice and verbal assessment outlining content in the 
 
 Do >70% of technical interview practice problems
 
+### In Class Full-Interview
+
+Evaluated using [behavioral interview assessment tool](https://docs.google.com/document/d/1tQ47KZ47PczcDjjxGA3O5OER4wJMwC9uifMxPobce5M/edit)
+
 ## Evaluation
 To pass this course you must meet the following requirements:
 
