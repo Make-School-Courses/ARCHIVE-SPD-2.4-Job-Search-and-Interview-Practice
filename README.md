@@ -19,52 +19,45 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
+**Course Dates:** Tuesday, March 31 – Thursday, May 14, 2020 (7 weeks)
 
-**Class Times:** Monday, Tuesday, Wednesday at 6:00–7:45pm (20 class sessions)
+**Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
 
 **Resource for Interview Practice:** [Technical Interview Question Bank](https://docs.google.com/document/d/1d08CZ4lk3lLPu0HwXvmYLLKBWCnwD4qhSvrrJ1e7TOE/edit)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
-|  1 |  Tue, January 21               | Goals & Job Search Process |
-|  2 |  Wed, January 22               | Interview Practice |
-|  3 |  Mon, January 27               | Informational Interviews |
-|  4 |  Tue, January 28               | Interview Practice |
-|  5 |  Wed, January 29               | Interview Practice |
-|  6 |  Mon, February 3               | Work Day |
-|  7 |  Tue, February 4               | Interview Practice |
-|  8 |  Wed, February 5               | Interview Practice |
-|  9 |  Mon, February 10              | Working with Different Personalities |
-| 10 |  Tue, February 11              | Interview Practice |
-| 11 |  Wed, February 12              | Interview Practice |
-| 12 |  Mon, February 17              | Managing Up |
-| 13 |  Tue, February 18              | Interview Practice |
-| 14 |  Wed, February 19              | Interview Practice |
-| 15 |  Mon, February 24              | Negotiation Practice |  
-| 16 |  Tue, February 25              | Interview Practice|  
-| 17 |  Wed, February 26              | Interview Practice|
-| 18 |  Mon, March 2                  | Peer Interviews |
-| 19 |  Tue, March 3                  | Interview Practice |
-| 20 |  Wed, March 4                  | Interview Practice |
+|  1 | Tue, March 31               | Goals & Job Search Process |
+|  2 | Thu, April 2               | Interview Practice |
+|  3 | Tue, April 7               | Informational Interviews |
+|  4 | Thu, April 9               | Interview Practice |
+|  5 | Tue, April 14               | Work Day |
+|  6 | Thu, April 16               | Interview Practice |
+|  7 | Tue, April 21              | Working with Different Personalities |
+|  8 | Thu, April 23              | Interview Practice |
+|  9 | Tue, April 28              | Managing Up |
+| 10 | Thu, April 30              | Interview Practice |
+| 11 | Tue, May 5              | Negotiation Practice |  
+| 12 | Thu, May 7              | Interview Practice|
+| 13 | Tue, May 12                  | Peer Interviews |
+| 14 | Thu, May 14                  | Interview Practice |
 
 ## Assignment Schedule 
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| Term 3 Job goals                                          |  Tue, Jan 21  |  Mon, Jan 27 | Submit in Tracker  |
-| Linkedin up to date                                       |  Tue, Jan 21  |  Mon, Feb 3  | Submit in Tracker  |
-| [Job Search Tutorial] + making warm connections           |  Tue, Jan 21  |  Mon, Feb 10 | Submit in Tracker  |
-| Resume up to date                                         |  Tue, Jan 21  |  Mon, Feb 17  | Submit in Tracker  |
-| Conduct 3 informational interviews                        |  Mon, Jan 27  |  Mon, Feb 23 | Submit in Tracker  |
-| Complete Portfolio update initiative                      |  Mon, Feb 3   |  Mon, Mar 2  | Submit in Tracker  |
-| Negotiation evaluation w/ instructor                      |  Mon, Feb 17  |  Wed, Feb 19  | Done with instructor  |
+| Term 3 Job goals                                          |  Tue, Mar 21  |  Tue, Apr 7  | Submit in Tracker  |
+| Linkedin up to date                                       |  Tue, Mar 21  |  Tue, Apr 14 | Submit in Tracker  |
+| [Job Search Tutorial] + making warm connections           |  Tue, Mar 21  |  Tue, Apr 21 | Submit in Tracker  |
+| Resume up to date                                         |  Tue, Mar 21  |  Tue, Apr 28 | Submit in Tracker  |
+| Conduct 3 informational interviews                        |  Tue, Apr 7   |  Tue, May 5  | Submit in Tracker  |
+| Complete Portfolio update initiative                      |  Tue, Apr 14  | Tue, May 12  | Submit in Tracker  |
+| Negotiation evaluation w/ instructor                      |  Tue, Apr 28  |  Tue, May 5  | Done with instructor  |
 
 
 [Job Search Tutorial]:https://docs.google.com/document/d/1KRClrwi49Ru8S8eQF0-VWb6dO82N-Nx0E4uUVw_xlI0/edit#
 
-## [Course Tracker](https://docs.google.com/spreadsheets/d/1sEJrAPmcpJd0u9OZWEEiPP08kjKdebWKdvdMaOqHE68/edit#gid=136456159)
+## [Course Tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159)
 
 ## Class Assignments
 
