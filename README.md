@@ -27,20 +27,29 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 | Tue, March 31               | Goals & Job Search Process |
-|  2 | Thu, April 2               | Interview Practice |
-|  3 | Tue, April 7               | Informational Interviews |
-|  4 | Thu, April 9               | Interview Practice |
+|  1 | Tue, March 31               | [Goals & Job Search Process] |
+|  2 | Thu, April 2               | [Interview Practice] |
+|  3 | Tue, April 7               | [Informational Interviews] |
+|  4 | Thu, April 9               | [Interview Practice] |
 |  5 | Tue, April 14               | Work Day |
-|  6 | Thu, April 16               | Interview Practice |
-|  7 | Tue, April 21              | Working with Different Personalities |
-|  8 | Thu, April 23              | Interview Practice |
-|  9 | Tue, April 28              | Managing Up |
-| 10 | Thu, April 30              | Interview Practice |
-| 11 | Tue, May 5              | Negotiation Practice |  
-| 12 | Thu, May 7              | Interview Practice|
-| 13 | Tue, May 12                  | Peer Interviews |
-| 14 | Thu, May 14                  | Interview Practice |
+|  6 | Thu, April 16               | [Interview Practice] |
+|  7 | Tue, April 21              | [Working with Different Personalities] |
+|  8 | Thu, April 23              | [Interview Practice] |
+|  9 | Tue, April 28              | [Managing Up] |
+| 10 | Thu, April 30              | [Interview Practice] |
+| 11 | Tue, May 5              | [Negotiation Practice] |  
+| 12 | Thu, May 7              | [Interview Practice]|
+| 13 | Tue, May 12                  | [Peer Interviews] |
+| 14 | Thu, May 14                  | [Interview Practice] |
+
+
+[Goals & Job Search Process]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.kldboupi8h8x
+[Informational Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.z7z7qa30jjqz
+[Working with Different Personalities]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.pk244s4l73wo
+[Managing Up]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.btm6vus5ypao
+[Negotiation Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.xjdoicqxlzev
+[Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
+[Interview Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75
 
 ## Assignment Schedule 
 
@@ -63,7 +72,7 @@ By the end of the course, you will be able to ...
 
 ### Term 3 Job goals
 
-Complete template in this spreadsheet, submit via tracker, and discuss your goals with your instructor.
+Fill in **columns H, I, and J** in the [Course Tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159), and discuss your goals with your instructor.
 
 ### Linkedin up to date
 
@@ -94,17 +103,30 @@ Pass verbal negotiation practice and verbal assessment outlining content in the 
 
 ### Technical Interview Practice
 
-Do >70% of technical interview practice problems
+Do >70% of technical interview practice problems from [this problem list](https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75)
 
 ### In Class Full-Interview
 
 Evaluated using [behavioral interview assessment tool](https://docs.google.com/document/d/1tQ47KZ47PczcDjjxGA3O5OER4wJMwC9uifMxPobce5M/edit)
 
 ## Evaluation
-To pass this course you must meet the following requirements:
 
-- Complete all required tutorials 
-- Pass all projects according to the associated project rubric
+**To pass this course, you must earn at least a 70% weighted average, according to the following breakdown:**
+
+- Goals: 5%
+- Linkedin: 5%
+- Job search tutoril and connections: 10%
+- Resume: 5%
+- Informational interviews: 10%
+- Portfolio Audit: 10%
+- Negotiaton: 10%
+- Technical Interview Practice: 40%
+- Full Interview: 10%
+
+*5% of the above breakdown is reserved for extra credit*
+
+In order to pass this course, you must also:
+
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
