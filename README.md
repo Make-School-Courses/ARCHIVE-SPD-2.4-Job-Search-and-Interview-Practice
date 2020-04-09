@@ -31,7 +31,7 @@ By the end of the course, you will be able to ...
 |  2 | Thu, April 2               | [Interview Practice] |
 |  3 | Tue, April 7               | [Informational Interviews] |
 |  4 | Thu, April 9               | [Interview Practice] |
-|  5 | Tue, April 14               | Work Day |
+|  5 | Tue, April 14               | Work Day + Instructor Checkins |
 |  6 | Thu, April 16               | [Interview Practice] |
 |  7 | Tue, April 21              | [Working with Different Personalities] |
 |  8 | Thu, April 23              | [Interview Practice] |
