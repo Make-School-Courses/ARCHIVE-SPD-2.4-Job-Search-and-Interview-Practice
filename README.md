@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 |  3 | Tue, April 7               | [Informational Interviews] |
 |  4 | Thu, April 9               | [Interview Practice] |
 |  5 | Tue, April 14               | Work Day + Instructor Checkins |
-|  6 | Thu, April 16               | [Interview Practice] |
+|  6 | Thu, April 16               | [Interview Practice 3] |
 |  7 | Tue, April 21              | [Working with Different Personalities] |
 |  8 | Thu, April 23              | [Interview Practice] |
 |  9 | Tue, April 28              | [Managing Up] |
@@ -50,6 +50,7 @@ By the end of the course, you will be able to ...
 [Negotiation Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.xjdoicqxlzev
 [Peer Interviews]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.2semf036b5pb
 [Interview Practice]: https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75
+[Interview Practice 3]: https://docs.google.com/document/d/1KDxtUoaEOSA4IZZjgeN1ZgvI2zc9WAKKOVAzkb5SrsM/edit#heading=h.y7dpc3j21pod
 
 ## Assignment Schedule 
 
