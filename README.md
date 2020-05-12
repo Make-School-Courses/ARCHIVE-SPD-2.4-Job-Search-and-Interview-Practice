@@ -104,7 +104,7 @@ Pass verbal negotiation practice and verbal assessment outlining content in the 
 
 ### Technical Interview Practice
 
-Do >70% of technical interview practice problems from [this problem list](https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75)
+Do >70% of technical interview practice problems from [this problem list](https://docs.google.com/document/d/1oQt5Li1zVrY-x0Ti2CGnRE0O-nUp8Hp3jsUkDRzt4Ss/edit#heading=h.e0c7yc48cw75) submitted via the [tracker](https://docs.google.com/spreadsheets/d/177VINzmBa23oLl5ndTbIE3ic5Dhv9L4JBclCDdLQnk4/edit#gid=136456159).
 
 ### In Class Full-Interview
 
