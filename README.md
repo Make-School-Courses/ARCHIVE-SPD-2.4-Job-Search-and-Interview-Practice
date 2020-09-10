@@ -8,6 +8,12 @@ This course offers structured support for the job search. The course starts with
 
 - [SPD 2.3](https://github.com/Make-School-Courses/SPD-2.3-Onboarding)
 
+## Course Specifics
+
+**Course Delivery**: hybrid | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Outcomes
 
 By the end of the course, you will be able to ...
@@ -130,6 +136,12 @@ In order to pass this course, you must also:
 
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+## Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
