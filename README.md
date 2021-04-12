@@ -1,6 +1,6 @@
 # ARCHIVE - SPD 2.4 Job Search and Interview Practice
 
-## Course is now run as SPD 2.41, and can be viewed [here](https://github.com/Make-School-Courses/SPD-2.41-Onboarding-Into-Companies)
+## The below is now archived and no longer maintained. Course is now run as SPD 2.41, and can be viewed [here](https://github.com/Make-School-Courses/SPD-2.41-Onboarding-Into-Companies)
 
 ## Course Description
 
